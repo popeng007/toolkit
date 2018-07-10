@@ -34,3 +34,5 @@
 ### Notepad++
 
 ### filezilla
+
+### FireDaemon Pro
