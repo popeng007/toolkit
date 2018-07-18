@@ -1,9 +1,9 @@
 # toolkit
 
 ### VS Code
-#### DotENV
-#### Apache conf
-#### php cs fixer
+##### DotENV
+##### Apache conf
+##### php cs fixer
 
 ### XAMPP
 
