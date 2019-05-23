@@ -4,6 +4,7 @@
 ##### DotENV
 ##### Apache conf
 ##### php cs fixer
+##### PHP DocBlocker
 
 ### XAMPP
 
